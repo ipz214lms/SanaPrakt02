@@ -2,5 +2,5 @@
 Console.WriteLine("Text1");
 Console.WriteLine("Text2");
 Console.WriteLine("Text3");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Text4");
+Console.WriteLine("Text5");
