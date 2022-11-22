@@ -12,4 +12,4 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
-
+Виконав: Лазарчук Михайло
